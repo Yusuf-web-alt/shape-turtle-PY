@@ -13,3 +13,5 @@ here is the order in a python list:
 ["arrow", "classic", "turtle", "circle", "square"]
 
 so, that's all. have a good day
+
+(tested on win11)
