@@ -1,7 +1,7 @@
 from turtle import *
 import time
 
-googoo = ["arrowd", "classic", "turtle", "circle", "square"]
+googoo = ["arrow", "classic", "turtle", "circle", "square"]
 
 def front():
     left(360 / 4)
