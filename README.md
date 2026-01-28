@@ -15,3 +15,5 @@ here is the order in a python list:
 so, that's all. have a good day
 
 (tested on win11)
+
+if something goes wrong tell me the output data/shell. if you think i can fix it, let me know and i'll add you as a co-auther!
