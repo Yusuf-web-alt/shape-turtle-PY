@@ -23,3 +23,5 @@ for shapetester in googoo:
     back()
     fd(100)
     front()
+
+time.sleep(7200) #wait 2 hours before exiting
